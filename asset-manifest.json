@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/phantom24-hub.github.io/static/css/main.5cf4ad13.css",
+    "main.js": "/phantom24-hub.github.io/static/js/main.905754d8.js",
+    "static/js/787.30237536.chunk.js": "/phantom24-hub.github.io/static/js/787.30237536.chunk.js",
+    "index.html": "/phantom24-hub.github.io/index.html",
+    "main.5cf4ad13.css.map": "/phantom24-hub.github.io/static/css/main.5cf4ad13.css.map",
+    "main.905754d8.js.map": "/phantom24-hub.github.io/static/js/main.905754d8.js.map",
+    "787.30237536.chunk.js.map": "/phantom24-hub.github.io/static/js/787.30237536.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5cf4ad13.css",
+    "static/js/main.905754d8.js"
+  ]
+}
