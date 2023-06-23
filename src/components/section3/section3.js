@@ -4,7 +4,7 @@ import './section3Style.css'
 const Section3 = () => {
     return (
         <>
-            <div className="section3">
+            <div className="contact" id="contact">
 
             </div>
         </>

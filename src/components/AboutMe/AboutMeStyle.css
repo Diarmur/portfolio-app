@@ -1,0 +1,34 @@
+.section1{
+    position: relative;
+    width: 100%;
+    height: 40vw;
+    background-color: var(--Pakistan-green);
+    color: aliceblue;
+    z-index: 2;
+    display: flex;
+    flex-direction: row;
+}
+
+
+.info{
+    position: relative;
+    display: flex;
+    height: min-content;
+    width: min-content;
+    flex-direction: column;
+    gap: 1vw;
+    margin-left: 2vw;
+    margin-top: 2vw;
+}
+
+.name{
+    font-size: 2vw;
+    height: min-content;
+    width: max-content;
+}
+
+.age{
+    font-size: 1vw;
+    width: max-content;
+    height: min-content;
+}
